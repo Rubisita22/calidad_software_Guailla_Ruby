@@ -1,0 +1,100 @@
+# ==========================================================
+# TESTING - JEST / UNIT TESTS
+# ==========================================================
+
+# Cobertura generada por Jest
+**/coverage/
+**/.nyc_output/
+
+# Caché de Jest
+**/.jest/
+**/.jest-cache/
+**/jest-cache/
+
+# Resultados de Jest
+**/jest-results/
+**/test-results/
+
+# Snapshots generados
+# NOTA: NO ignorar __snapshots__ porque normalmente
+# deben versionarse junto con los tests.
+# **/__snapshots__/
+
+
+# ==========================================================
+# UNIT TESTS - NODE / REACT / NESTJS
+# ==========================================================
+
+# Archivos temporales generados durante tests
+**/*.test.log
+**/*.spec.log
+
+# Reportes de testing
+**/test-reports/
+**/test-report/
+**/reports/
+
+
+# ==========================================================
+# E2E - PLAYWRIGHT
+# ==========================================================
+
+# Reportes de Playwright
+**/playwright-report/
+**/playwright-report/**
+
+# Resultados de tests
+**/test-results/
+**/test-results/**
+
+# Artefactos de Playwright
+**/blob-report/
+**/playwright/.cache/
+
+# Videos y screenshots generados durante E2E
+**/playwright/screenshots/
+**/playwright/videos/
+**/playwright/traces/
+
+
+# ==========================================================
+# E2E - CYPRESS
+# ==========================================================
+
+# Screenshots generados por Cypress
+**/cypress/screenshots/
+
+# Videos generados por Cypress
+**/cypress/videos/
+
+# Reportes Cypress
+**/cypress/reports/
+
+# Caché Cypress
+**/.cypress/
+
+
+# ==========================================================
+# E2E - SELENIUM / WEBDRIVER
+# ==========================================================
+
+**/selenium/screenshots/
+**/selenium/videos/
+**/webdriver/screenshots/
+
+
+# ==========================================================
+# TESTING - GENERAL
+# ==========================================================
+
+# Archivos temporales de pruebas
+**/test-output/
+**/test-output/**
+
+# Archivos de resultados XML
+**/junit.xml
+**/test-results.xml
+
+# Reportes HTML generados por testing
+**/test-report.html
+**/test-results.html
