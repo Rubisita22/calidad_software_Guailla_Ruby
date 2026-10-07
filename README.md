@@ -6,6 +6,10 @@ Este repositorio contiene ejercicios, prácticas, investigaciones y proyectos de
 
 ---
 
+## 👨‍💻 Autor
+
+*Nombre:* Rubyy
+
 ## 📚 Contenido
 
 Durante la materia estudiaremos diferentes conceptos y técnicas relacionadas con la calidad del software:
